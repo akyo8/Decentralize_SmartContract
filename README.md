@@ -1,5 +1,3 @@
-# Decentralize_SmartContract
-SmartContract _ Decentralize Platform
+# Contract for Decentralize
 
-
-Wei convert feature
+Feature : Wei convert feature
